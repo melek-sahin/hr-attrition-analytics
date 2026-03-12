@@ -1,4 +1,9 @@
-# hr-attrition-analytics
+# Attrivista | HR Attrition Analytics Dashboard
+
+![HR Attrition Dashboard](attrition-dashboard.png)
+
+## Overview
+...# hr-attrition-analytics
 HR Attrition Analysis Dashboard built with Power BI and Python-based data analysis.
 ## Overview
 ## Dashboard Preview
@@ -77,5 +82,10 @@ These insights support proactive HR strategies to improve employee retention.
 This project demonstrates how HR analytics can transform workforce data into strategic insights. By identifying attrition drivers and high-risk segments, organizations can design targeted retention strategies and improve employee experience.
 
 Action today ensures retention tomorrow.
+## Dashboard Report
+
+You can view the full project report here:
+
+[Download the Dashboard Report](hr-attrition-dashboard.pdf)
 
 

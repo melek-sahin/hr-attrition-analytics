@@ -3,9 +3,9 @@
 ![HR Attrition Dashboard](attrition-dashboard.png)
 
 ## Overview
-...# hr-attrition-analytics
-HR Attrition Analysis Dashboard built with Power BI and Python-based data analysis.
-## Overview
+
+Attrivista is an HR analytics dashboard designed to analyze employee attrition patterns and help organizations make data-driven retention decisions.
+
 ## Dashboard Preview
 ## Business Problem
 
